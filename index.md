@@ -6,8 +6,7 @@
 
 ### Syllabus
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Download course syllabus here.(https://abhirishisb.github.io/syllabus_math_prep_2018_abhishek.pdf)
 
 ### Lectures
 
