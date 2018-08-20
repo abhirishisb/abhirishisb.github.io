@@ -7,6 +7,8 @@
 
 3) There will no class on 22 Aug 2018.
 
+4) If you are interested in a more advanced introduction to linear algebra.                                                             See [here](https://abhirishisb.github.io/linear_algebra_notes.pdf). We can discuss these ideas after the course finishes.
+
 
 ### Syllabus
 
