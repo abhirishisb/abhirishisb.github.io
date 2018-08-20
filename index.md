@@ -5,6 +5,8 @@
 
 2) If you are interested in [Lebesgue measure](https://abhirishisb.github.io/LebesgueMeasure.pdf) and                             [integral](https://abhirishisb.github.io/LebesgueIntegral.pdf). Here are some goods notes. 
 
+3) There will no class on 22 Aug 2018.
+
 
 ### Syllabus
 
