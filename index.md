@@ -2,6 +2,7 @@
 
 ### Announcements
 1) No class on 17 Aug 2018.
+
 2) If you are interested in [Lebesgue measure](https://abhirishisb.github.io/LebesgueMeasure.pdf) and                             [integral](https://abhirishisb.github.io/LebesgueIntegral.pdf). Here are some goods notes. 
 
 
