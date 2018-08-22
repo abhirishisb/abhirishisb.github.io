@@ -5,7 +5,7 @@
 
 2) If you are interested in [Lebesgue measure](https://abhirishisb.github.io/LebesgueMeasure.pdf) and                             [integral](https://abhirishisb.github.io/LebesgueIntegral.pdf). Here are some goods notes. 
 
-3) There will no class on 22 Aug 2018.
+3) No class on 22 Aug 2018.
 
 4) If you are interested in a more advanced introduction to linear algebra.                                                             See [here](https://abhirishisb.github.io/linear_algebra_notes.pdf). We can discuss these ideas after the course finishes.
 
