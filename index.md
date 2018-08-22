@@ -20,6 +20,8 @@ Download course syllabus [here](https://abhirishisb.github.io/syllabus_math_prep
 ### Assignments
 
 Assignment 1 [here](https://abhirishisb.github.io/assignment1.pdf)
+
 Assignment 2 [here]
+
 Assignment 3 [here](https://abhirishisb.github.io/assignment3.pdf)
 
