@@ -11,6 +11,8 @@
 
 5) Book on convex optimization. [Here](abhirishisb.github.io/bv_cvxbook.pdf)
 
+6) Class on 24 Aug 2018 is rescheduled to 9:00 am to 11:00 am.
+
 
 ### Syllabus
 
