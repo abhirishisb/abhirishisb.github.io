@@ -9,6 +9,8 @@
 
 4) If you are interested in a more advanced introduction to linear algebra.                                                             See [here](https://abhirishisb.github.io/linear_algebra_notes.pdf). We can discuss these ideas after the course finishes.
 
+5) Book on convex optimization. [Here](abhirishisb.github.io/bv_cvxbook.pdf)
+
 
 ### Syllabus
 
