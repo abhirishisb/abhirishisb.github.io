@@ -31,3 +31,7 @@ Download course syllabus [here](https://abhirishisb.github.io/syllabus_math_prep
 
 [Assignment 4](https://abhirishisb.github.io/assignment4.pdf)
 
+### Some Feedback
+
+[Here](abhirishisb.github.io/things_to_remember.pdf)
+
